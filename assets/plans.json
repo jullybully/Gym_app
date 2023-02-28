@@ -1,0 +1,109 @@
+{
+    "plans": [
+      {
+        "id": 1,
+        "title": "Beginner Workout Plan",
+        "description": "A 4-week workout plan for beginners",
+        "coach": "John Smith",
+        "category": "Fitness",
+        "plan_category": "Beginner",
+        "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+        "exercises": [
+          {
+            "id": 1,
+            "title": "Squats",
+            "description": "Stand with your feet shoulder-iwdth apart...",
+            "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+            "sets": 3,
+            "reps": 10
+          },
+          {
+            "id": 2,
+            "title": "Push-Ups",
+            "description": "Get down on all fours...",
+            "image": "https://example.com/pushups.png",
+            "sets": 3,
+            "reps": 10
+          },
+          {
+            "id": 3,
+            "title": "Lunges",
+            "description": "Stand with your feet hip-width apart...",
+            "image": "https://example.com/lunges.png",
+            "sets": 3,
+            "reps": 10
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Intermediate Workout Plan",
+        "description": "A 6-week workout plan for intermediate level",
+        "coach": "Jane Doe",
+        "category": "Fitness",
+        "plan_category": "Intermediate",
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "exercises": [
+          {
+            "id": 1,
+            "title": "Deadlifts",
+            "description": "Stand with your feet hip-width apart...",
+            "image": "https://example.com/deadlifts.png",
+            "sets": 4,
+            "reps": 8
+          },
+          {
+            "id": 2,
+            "title": "Bench Press",
+            "description": "Lie on a flat bench...",
+            "image": "https://example.com/bench_press.png",
+            "sets": 4,
+            "reps": 8
+          },
+          {
+            "id": 3,
+            "title": "Pull-Ups",
+            "description": "Hang from a pull-up bar...",
+            "image": "https://example.com/pullups.png",
+            "sets": 4,
+            "reps": 8
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Advanced Workout Plan",
+        "description": "A 8-week workout plan for advanced level",
+        "coach": "Mark Johnson",
+        "category": "Fitness",
+        "plan_category": "Advanced",
+        "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "exercises": [
+          {
+            "id": 1,
+            "title": "Barbell Squats",
+            "description": "Stand with your feet shoulder-width apart...",
+            "image": "https://example.com/barbell_squats.png",
+            "sets": 5,
+            "reps": 10
+          },
+          {
+            "id": 2,
+            "title": "Dumbbell Bench Press",
+            "description": "Lie on a flat bench...",
+            "image": "https://example.com/dumbbell_bench_press.png",
+            "sets": 5,
+            "reps": 10
+          },
+          {
+            "id": 3,
+            "title": "Deadlifts",
+            "description": "Stand with your feet hip-width apart...",
+            "image": "https://example.com/deadlifts.png",
+            "sets": 5,
+            "reps": 8
+          }
+        ]
+    }
+]
+}
